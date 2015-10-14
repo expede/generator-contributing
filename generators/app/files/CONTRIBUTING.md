@@ -5,11 +5,15 @@ Please follow these guidelines for contributing to this repository.
 ## Pull Requests
 
 **Never commit directly to master.**
-Create small branches for each and every topic you work on (such as a feature or bug fix), and create a pull request into master when the branch is complete.
+Create small branches for *each* topic that you work on (individual features, bug fixes, and so on).
+When the branch is complete, [create a pull request](https://help.github.com/articles/using-pull-requests/) against `master`.
 
 ### Forking
-If you don't have push rights for the repo, fork it, do your work, and pull request against the upstream repository.
+If you don't have push rights for the repo:
 
+1. Fork the repo
+2. Do your work
+3. Create a pull request against the upstream repository
 
 ## Code of Conduct
 

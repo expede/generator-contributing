@@ -4,7 +4,12 @@ Please follow these guidelines for contributing to this repository.
 
 ## Pull Requests
 
-TODO: Explain pull request process.
+**Never commit directly to master.**
+Create small branches for each and every topic you work on (such as a feature or bug fix), and create a pull request into master when the branch is complete.
+
+### Forking
+If you don't have push rights for the repo, fork it, do your work, and pull request against the upstream repository.
+
 
 ## Code of Conduct
 
